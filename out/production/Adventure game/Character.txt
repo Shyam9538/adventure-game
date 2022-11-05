@@ -1,0 +1,18 @@
+Nathan Drake
+Occupation: Professional treasure hunter
+Strengths: Kick, Weapon
+Victor Sullivan
+Occupation: Businessman
+Strengths: Knowledge
+Elena Fisher
+Occupation: Reporter
+Strengths: combo, health
+Sam Drake
+Occupation: A professional treasure hunter
+Strengths: punch,kick,health
+Chloe Frazer
+Occupation:Thief
+Strengths: punch,kick,combo,health
+Mercenary
+Occupation: Mercenary
+Strengths: Kick,energy

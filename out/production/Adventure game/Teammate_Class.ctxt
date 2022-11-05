@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Teammate_Class
+comment0.text=\r\n\ The\ instance\ variables\ are\ declared\ here.\r\n
+comment1.params=health\ energy\ name
+comment1.target=Teammate_Class(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Teammate_Class\r\n
+comment2.params=
+comment2.target=int\ powerUp()
+comment2.text=\r\n\ This\ method\ returns\ the\ powerUp\ value\r\n
+comment3.params=m
+comment3.target=int\ PunchHealthH(Mercenary_Class)
+comment3.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ PunchHealthH\ method\ and\ refines\ the\ result\ returned.\r\n
+comment4.params=m
+comment4.target=int\ KickHealthH(Mercenary_Class)
+comment4.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ KickHealthH\ method\ and\ refines\ the\ result\ returned.\r\n
+comment5.params=m
+comment5.target=int\ Combo(Mercenary_Class)
+comment5.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ Combo\ method\ and\ refines\ the\ result\ returned.\r\n
+numComments=6

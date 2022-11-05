@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Teammate3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Teammate3\ here.\r\n\ This\ subclass\ has\ the\ variable\ for\ the\ teammate3\ subclass\ and\ the\ values\ they\ return\ for\ each\ of\ the\ stats\ for\ this\ type\ of\ character.\r\n\r\n\ @author\ (Mohan\ Shyam\ Murugan)\r\n\ @version\ (Version\ 1)\r\n
+comment1.params=health\ energy\ name
+comment1.target=Teammate3(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Teammate3\r\n
+comment2.params=
+comment2.target=int\ powerUp()
+comment2.text=\r\n\ This\ method\ returns\ the\ powerUp\ value\ in\ the\ superclass.\r\n
+comment3.params=m
+comment3.target=int\ PunchHealthH(Mercenary_Class)
+comment3.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ PunchHealthH\ method\ and\ refines\ the\ result\ returned\ by\ using\ the\ instance\ variable.\r\n
+comment4.params=m
+comment4.target=int\ KickHealthH(Mercenary_Class)
+comment4.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ KickHealthH\ method\ and\ refines\ the\ result\ returned\ by\ using\ the\ instance\ variable.\r\n
+comment5.params=m
+comment5.target=int\ Combo(Mercenary_Class)
+comment5.text=\r\n\ The\ method\ does\ a\ calculation\ for\ the\ Combo\ method\ and\ refines\ the\ result\ returned\ by\ using\ the\ instance\ variable.\r\n
+numComments=6

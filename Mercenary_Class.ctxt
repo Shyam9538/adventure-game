@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Mercenary_Class
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mercenary_Class\ here.\r\n\ This\ class\ has\ the\ variable\ for\ the\ mercenary\ class\ and\ the\ values\ they\ return\ for\ each\ of\ the\ stats\ for\ this\ type\ of\ character.\r\n\r\n\ @author\ (Mohan\ Shyam\ Murugan)\r\n\ @version\ (Version\ 1)\r\n
+comment1.params=health\ energy
+comment1.target=Mercenary_Class(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mercenary_Class\r\n
+comment2.params=
+comment2.target=boolean\ getDead()
+comment2.text=\r\n\ This\ method\ returns\ the\ getDead\ value\r\n
+comment3.params=m
+comment3.target=int\ getHealth(Mercenary_Class)
+comment3.text=\r\n\ This\ method\ returns\ the\ health\ value\r\n
+comment4.params=m
+comment4.target=int\ getEnergy(Mercenary_Class)
+comment4.text=\r\n\ This\ method\ returns\ the\ energy\ value\r\n
+comment5.params=h
+comment5.target=int\ KickHealthM(Hero_Class)
+comment5.text=\r\n\ This\ method\ returns\ the\ health\ of\ the\ hero\ after\ the\ mercenary\ kicks\r\n
+comment6.params=m
+comment6.target=int\ KickEnergyM(Mercenary_Class)
+comment6.text=\r\n\ This\ method\ returns\ the\ energy\ of\ the\ mercenary\ after\ the\ mercenary\ kicks\r\n
+comment7.params=m
+comment7.target=int\ Boost(Mercenary_Class)
+comment7.text=\r\n\ This\ method\ returns\ random\ health\ boost\r\n
+numComments=8
